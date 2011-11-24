@@ -1,7 +1,7 @@
 # fever-iPadMode #
 
 ## disclaimer ##
-[fever][id], its website and all related files are copyright of Shaun Inman.
+[fever][http://feedafever.com/], its website and all related files are copyright of Shaun Inman.
 
 ## how to apply the hack ##
 
@@ -20,11 +20,6 @@
 
 
 ### iPad view ###
-[browser-mode]: http://github.com/niepi/fever-iPadMode/raw/master/img/ipad-mode.png   "ipad-mode"
+[ipad-mode]: http://github.com/niepi/fever-iPadMode/raw/master/img/ipad-mode.png   "ipad-mode"
 
-
-
-## links
-
-[id]: http://feedafever.com/ "fever"
 
