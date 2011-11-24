@@ -16,10 +16,10 @@
 
 ### standard browser view ###
 
-[browser-mode]: http://github.com/niepi/fever-iPadMode/raw/master/img/browser-mode.png   "browser-mode"
+[browser-mode]: http://github.com/niepi/fever-iPadMode/raw/master/browser-mode.png   "browser-mode"
 
 
 ### iPad view ###
-[ipad-mode]: http://github.com/niepi/fever-iPadMode/raw/master/img/ipad-mode.png   "ipad-mode"
+[ipad-mode]: http://github.com/niepi/fever-iPadMode/raw/master/ipad-mode.png   "ipad-mode"
 
 
