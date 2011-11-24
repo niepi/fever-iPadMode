@@ -14,7 +14,7 @@
 
     im.init = function() {
         im.log('init');
-        // if (im.isIpad() == true) {
+         if (im.isIpad() == true) {
             im.bindEvents();
 
             if (im.defaultiPadMode == 1) {
@@ -24,7 +24,7 @@
             else {
                 im.addModeButton('iPad');
             }
-        // }
+         }
     };
 
     im.bindEvents = function() {
