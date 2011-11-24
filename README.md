@@ -5,11 +5,12 @@
 
 ## how to apply the hack ##
 
-- copy ipad-mode.js to '/firewall/app/views/default/scripts/'
-- add the following to '/firewall/app/views/default/reader/header.php'
+- copy ipad-mode.js to `/firewall/app/views/default/scripts/`
+- add the following to `/firewall/app/views/default/reader/header.php`
 
     `<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>`
-    `<script type="text/javascript" src="firewall/app/views/default/scripts/ipadmode.js?v=<?php e($this->version);?>"></script>`
+   
+     `<script type="text/javascript" src="firewall/app/views/default/scripts/ipadmode.js?v=<?php e($this->version);?>"></script>`
 
 ## how it looks ##
 
